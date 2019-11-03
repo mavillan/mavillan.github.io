@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: data-in-discipline
+name: data (in)discipline
 
 # Short bio or description (displayed in the header)
 description: A blog about science, data and code.
@@ -18,7 +18,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: nallivam@gmail.com
+  email:
   facebook:
   flickr:
   github: mavillan
